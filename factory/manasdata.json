@@ -1,0 +1,9 @@
+{
+	"name": "manasdata",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ec7f952b-598d-4e9a-ac6c-56542f49d9a4",
+		"tenantId": "03d3900a-638d-4e86-85c1-37ebbbb565d7"
+	}
+}
